@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Pavel.</h1>
-<h3 align="center">I'm front-end developer from Moscow, Russia.</h3>
+<h3 align="center">I'm a front-end developer from Moscow, Russia.</h3>
 
 📫 How to reach me:  **unclekoin@gmail.com**
 
