@@ -4,4 +4,4 @@
 📫 How to reach me:  **unclekoin@gmail.com**
 
 ### Skills and Qualifications:
-HTML, CSS, SASS, JavaScript, TypeScript, React, Redux, Bootsrap, Materialize, Node.js, Express.js, GIT, Webpack, SQL, MongoDB
+HTML, CSS, SASS, JavaScript, TypeScript, React, Redux, MUI, Bootsrap, Materialize, Node.js, Express.js, GIT, Webpack, SQL, MongoDB
